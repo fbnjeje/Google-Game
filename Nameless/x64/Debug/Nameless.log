@@ -1,0 +1,2 @@
+﻿  Nameless.cpp
+C:\Users\Neonx\source\repos\Nameless\Nameless\Nameless.cpp(28,13): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
